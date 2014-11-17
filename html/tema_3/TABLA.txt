@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+<HTML>
+	<head>
+		<title> táboa </title>
+		<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"> 
+	</head>
+	<body>
+		<table border="1">
+			<tr>
+				<tr> cela 1 </tr>
+				<tr> cela 2 </tr>
+			</tr>
+			<tr>
+				<tr> cela 3 </tr>
+				<tr> cela 4 </tr>
+			</tr>
+		</table>
+	</body>
+</HTML>	
+		
+	
